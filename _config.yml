@@ -13,7 +13,7 @@ title                    : "Yuling Jiang"
 title_separator          : "-"
 name                     : &name "蒋宇玲"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://YulingJiang9072.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yulingjiang9072.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YulingJiang9072/YulingJiang9072.github.io"
@@ -23,8 +23,8 @@ repository               : "YulingJiang9072/YulingJiang9072.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.png"
-  name             : "Your Sidebar Name"
+  avatar           : "../images/avatar.png"
+  name             : "Yuling Jiang"
   pronouns         : # example: "she"  
   bio              : "PhD. student in Peking University majored in public health"
   location         : "Beijing, China"
