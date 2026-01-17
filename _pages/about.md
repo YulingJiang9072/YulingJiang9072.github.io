@@ -2,9 +2,6 @@
 permalink: /about/
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 **JIANG Yuling**  
@@ -12,13 +9,10 @@ redirect_from:
 
 ## EDUCATION
 
-*   **Sep 2025 – now : Master of Medicine**
+*   **Sep 2023 – Jul 2025 (Expected): Master of Science**
     Peking University – Social Medicine, Health Policy and Management (Specialization: Healthy Aging and Geriatric Epidemiology)
 
-*   **Sep 2023 – Jul 2025 : Master of Medicine**
-    Peking University – Social Medicine, Health Policy and Management (Specialization: Healthy Aging and Geriatric Epidemiology)
-
-*   **Sep 2018 – Jul 2023: Bachelor of Medicine**
+*   **Sep 2018 – Jul 2023: Bachelor of Science**
     Peking University – Public Health and Preventive Medicine
     GPA: 3.42/4.0 | CET-4: 584 | CET-6: 512
 
