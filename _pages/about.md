@@ -1,57 +1,73 @@
 ---
-permalink: /
-title: "Academic Pages"
+permalink: /about/
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Yuling Jiang, a Master’s student in Social Medicine and Health Policy at Peking University, where I am a member of the AgeLab under the supervision of Professor Yao Yao. My research centers on healthy aging and age-friendly environments. I specialize in applying epidemiological methods and statistical analysis—with proficiency in R and STATA—to study the determinants of healthy aging and to evaluate supportive policies for older adults.
+**JIANG Yuling**  
+13269257954 | yuling@pku.edu.cn
 
-I am driven by a strong interest in translating evidence into practical interventions that enhance the quality of life in aging populations. My prior research includes contributions to studies on health inequalities and the mental health of vulnerable groups. I am always open to discussing ideas and potential collaborations to further our understanding in this field. For more information about our lab, please visit https://agelab.pku.edu.cn/. I look forward to connecting and working with fellow researchers and professionals.
+## EDUCATION
 
-EDUCATION
-======
-*   **Sep 2025 – now (Expected): PhD journal**
+*   **Sep 2025 – now : Master of Medicine**
     Peking University – Social Medicine, Health Policy and Management (Specialization: Healthy Aging and Geriatric Epidemiology)
-    
+
 *   **Sep 2023 – Jul 2025 : Master of Medicine**
     Peking University – Social Medicine, Health Policy and Management (Specialization: Healthy Aging and Geriatric Epidemiology)
 
 *   **Sep 2018 – Jul 2023: Bachelor of Medicine**
     Peking University – Public Health and Preventive Medicine
     GPA: 3.42/4.0 | CET-4: 584 | CET-6: 512
-    
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## HONORS & AWARDS
 
-**Markdown generator**
+*   **2021 – 2022:** Peking University Outstanding Student (Top 15%)
+*   **2021 – 2022:** University First-Class Scholarship
+*   **2020 – 2021:** Peking University Academic Excellence Award (Top 20%)
+*   **2020 – 2021:** University Third-Class Scholarship
+*   **2019 – 2020:** Peking University Social Work Award (Top 20%)
+*   **2023:** Outstanding Youth League Member, Peking University Health Science Center
+*   **2020:** Outstanding Youth League Cadre, Peking University Health Science Center
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+---
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## UNIVERSITY EXPERIENCE & RESEARCH
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+*   **Apr 2022 – Apr 2023: Class Monitor**, Preventive Medicine Class 1, 2018 Cohort, School of Public Health
+    *   Organized dozens of class activities; the class was awarded "Outstanding Youth League Branch" in 2022.
+*   **Jul 2020 – Jul 2021: Vice Minister**, Student Association Department, Youth League Committee, Peking University Health Science Center
+    *   Served as a lead organizer for the PKU Health Science Center Club Culture Festival for two consecutive years.
+*   **Research Projects & Competitions:**
+    *   First Prize, Peking University Health Science Center Undergraduate Innovation Experiment Project (Team, 2020-2021).
+    *   Second Prize, Peking University "Challenge Cup" (2020-2021); Third Prize (2022-2023). Responsible for questionnaire design, data processing, and report writing.
+*   **Publications:**
+    *   Contributed to two published English research papers, primarily responsible for data cleaning and processing. One on mental health in rare bone diseases, another on health inequalities in childhood cancer using Inner Mongolia medical insurance data. A manuscript on healthy aging and age-friendly environments is in preparation.
+    *   **Lai X, Jiang Y, Sun Y, Zhang Z, Wang S.** Prevalence of depression and anxiety, and their relationship to social support among patients and family caregivers of rare bone diseases. *Orphanet J Rare Dis*. 2023.
+    *   **Zhou HZ, Qiao LY, Zhang YJ, Kang WW, Yan X, Jiang YL, et al.** Association of Ethnicity, Sex, and Age With Cancer Diagnoses and Health Care Utilization Among Children in Inner Mongolia, China. *JAMA Netw Open*. 2022.
+*   **Extracurricular:**
+    *   Core member of the Peking University Student Accordion Association, performed in six accordion concerts.
+    *   Enthusiastic about sports; regular participant in university sports meets, hiking, and trekking.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+---
+
+## PRACTICAL EXPERIENCE
+
+*   **Oct 2022 – Dec 2022: Intern**, Medical Administration Department, Xicheng District Health Commission, Beijing
+    *   Gained insight into the responsibilities of the Health Commission and familiarized with healthcare system structures.
+*   **Jan 2021 – Jan 2022: Clinical Observer & Intern**, Haidian Hospital, Beijing
+    *   Learned clinical skills through rotations in Internal Medicine, Surgery, Gynecology, and Pediatrics; familiarized with diagnosis and treatment processes for common diseases.
+*   Conducted field research visits to multiple elderly care institutions, service providers, and equipment R&D companies with graduate supervisor, gaining preliminary understanding of the elderly health sector.
+
+---
+
+## SKILLS & STRENGTHS
+
+*   **Research Focus:** Specialized in Healthy Aging and Age-Friendly Environment research, a field with significant potential in China's future market. Eager to contribute to translating research into practical applications.
+*   **Analytical Proficiency:** Strong statistical skills, proficient in R and STATA. Capable of independently handling data cleaning and analysis.
+*   **Interpersonal Skills:** Outgoing, excellent communicator, reliable, diligent, quick learner, and a strong team player.
+*   **Comprehensive Background:** Solid foundation in systems medicine, with research expertise spanning both epidemiology and health policy studies.
