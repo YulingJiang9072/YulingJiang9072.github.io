@@ -23,7 +23,7 @@ repository               : "YulingJiang9072/YulingJiang9072.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/avatar.png"
+  avatar           : "../images/avatar.jpg"
   name             : "Yuling Jiang"
   pronouns         : # example: "she"  
   bio              : "PhD. student in Peking University majored in public health"
